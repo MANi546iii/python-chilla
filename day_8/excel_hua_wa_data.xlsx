@@ -1,0 +1,15 @@
+,3,male,22,1,0,7.25,S,Third
+0,1,female,38.0,1,0,71.28,C,First
+1,3,female,26.0,0,0,7.93,S,Third
+2,1,female,35.0,1,0,53.1,S,First
+3,3,male,35.0,0,0,8.05,S,Third
+4,3,male,,0,0,8.46,Q,Third
+5,1,male,54.0,0,0,51.86,S,First
+6,3,male,2.0,3,1,21.08,S,Third
+7,3,female,27.0,0,2,11.13,S,Third
+8,2,female,14.0,1,0,30.07,C,Second
+9,3,female,4.0,1,1,16.7,S,Third
+10,1,female,58.0,0,0,26.55,S,First
+11,3,male,20.0,0,0,8.05,S,Third
+12,3,male,39.0,1,5,31.28,S,Third
+13,3,female,14.0,0,0,7.85,S,Third
